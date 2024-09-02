@@ -1,3 +1,3 @@
 # counter_app_with_bloc
 
-C:\Users\adhik\portfolio\assets\project_images\personal_project\counter.png
+![counter](https://github.com/user-attachments/assets/3e18c478-2670-42eb-925b-daeb4ac35e12)
